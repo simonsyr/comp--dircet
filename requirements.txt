@@ -14,4 +14,3 @@ requests
 gunicorn
 tgcrypto
 https://github.com/samerastanboly/ethon/archive/refs/heads/main.zip
-https://github.com/simonsyr/FFmpeg/archive/refs/heads/master.zip
