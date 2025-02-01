@@ -14,3 +14,4 @@ requests
 gunicorn
 tgcrypto
 https://github.com/samerastanboly/ethon/archive/refs/heads/main.zip
+https://github.com/heroku/heroku-buildpack-activestorage-preview.git
